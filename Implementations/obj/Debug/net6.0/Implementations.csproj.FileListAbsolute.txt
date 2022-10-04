@@ -1,0 +1,12 @@
+/Users/dylan/Code/CSharp/DSA/Implementations/bin/Debug/net6.0/Implementations.deps.json
+/Users/dylan/Code/CSharp/DSA/Implementations/bin/Debug/net6.0/Implementations.dll
+/Users/dylan/Code/CSharp/DSA/Implementations/bin/Debug/net6.0/Implementations.pdb
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.csproj.AssemblyReference.cache
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.AssemblyInfoInputs.cache
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.AssemblyInfo.cs
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.csproj.CoreCompileInputs.cache
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.dll
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/refint/Implementations.dll
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/Implementations.pdb
+/Users/dylan/Code/CSharp/DSA/Implementations/obj/Debug/net6.0/ref/Implementations.dll
